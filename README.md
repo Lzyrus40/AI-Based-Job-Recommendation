@@ -26,3 +26,9 @@ The backend receives user profile data and job listings, then crafts a prompt co
 
 ### 🧑‍💻 Author
 Made with ❤️ by Love Khandelwal
+
+### .env
+PORT=4000
+MONGODB_URI=""
+OpenAI_API_KEY=
+JWT_SECRET=""
